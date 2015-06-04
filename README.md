@@ -1,6 +1,8 @@
 # App of the month May-July
-
+ 
 This is a privileged empty app template for now that provides you with a barebones structure for you to build your app.
+
+in this app am attempting to create  an open web aap using IndexedDB,Vibration and Push Notification API's - Develop an Application using one or more of these API's. Get creative!
 
 This is part of the [mortar](https://github.com/mozilla/mortar/) template collection for building [Open Web Apps](https://developer.mozilla.org/Apps).
 

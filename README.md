@@ -1,6 +1,6 @@
-# Privileged empty app
+# App of the month May-July
 
-This is a privileged empty app template that provides you with a barebones structure for you to build your app.
+This is a privileged empty app template for now that provides you with a barebones structure for you to build your app.
 
 This is part of the [mortar](https://github.com/mozilla/mortar/) template collection for building [Open Web Apps](https://developer.mozilla.org/Apps).
 

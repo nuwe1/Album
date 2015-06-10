@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
-  "name": "no name",
-  "description": "this is still underdevelopment no thought for now no work",
+  "name": "Album",
+  "description": "Album is an app that enables users to save there photos just like you would store them in an album.",
   "launch_path": "/index.html",
   "icons": {
     "16": "/img/icons/icon16x16.png",
@@ -10,7 +10,7 @@
     "128": "/img/icons/icon128x128.png"
   },
   "developer": {
-    "name": "Your name",
+    "name": "Nuwe",
     "url": "http://example.com"
   },
   "type": "privileged",

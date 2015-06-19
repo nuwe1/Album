@@ -1,0 +1,18 @@
+email: 	  <input type="email" multiple required autofocus placeholder="sample@sample.com" />                
+url: 	  <input type="url" />
+number:    <input type="number" />
+date time: <input type="date"/>
+	  <input type="time"/>
+search: 	  <input type="search"/>
+range: 	  <input type="range" max="100" min="80" step="2" title="Your AES score" name="rscore"/>
+	  <output name="score">90</output>
+color: 	  <input type="color"/>
+datalist:  <input type="text" id="somenames" list="fullList" />
+	  <datalist id="fullList">
+	      <option value="Sandeep">
+	      <option value="Deepak">
+	      <option value="Sandy">
+	      <option value="Deepu">                                            
+	  </datalist>
+spellcheck:<input type="text" spellcheck="false" placeholder="Without Spellcheck">
+	  <input type="text" spellcheck="true" placeholder="With Spellcheck">

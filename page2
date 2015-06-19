@@ -40,10 +40,32 @@
     </head>
     <body>
         <section>
-            <h1 data-l10n-id="app_title">my empty app</h1>
-            <p data-l10n-id="app_description">This app is my attempt to create an app that will be used this month and displayed on the app contest</p>
-            <p id="message"></p>
-            <p id="message">this is the second line</p>
+            <h1 data-l10n-id="app_title">Album</h1>
+            <hgroup>
+    <h1>Penning Everything Interesting…</h1>
+</hgroup>
+<article id="MyBlog">
+    <header>
+        <h2>My first blog entry!</h2>
+    </header>
+    <p>I was thinking what to write about. I read few articles at times that I feel like sharing across, probably ...</p>
+    <br/>
+    <footer>
+    <section>
+        <h4>One Thought on 'My first blog entry…'</h4>
+        <article id="comment_1">
+            <link href="#comment_1" />
+            <h5>Comment by: Guruji</h5>
+            <p>Very well written. Love the enthu and energy you have for sharing your knowledge...</p>
+        </article>
+        <article id="comment_2">
+            <link href="#comment_2" />
+            <h5>Comment by: SuperStar</h5>
+            <p>Looks like a good start...Good going!</p>
+        </article>
+    </section>
+    </footer>
+</article>
         </section>
     </body>
 </html>

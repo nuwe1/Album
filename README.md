@@ -35,6 +35,8 @@ The idea is inspired by the need to create a photo storage app that works like a
 Import the app into the [App Manager](https://developer.mozilla.org/Firefox_OS/Using_the_App_Manager). Then you can run it in the simulator, or in a Firefox OS device.
 
 
+line to sample code for html5 webapps
+http://www.codeproject.com/Articles/546960/HTML-Quick-Start-Web-Application
 
 ## Contributing
 

@@ -20,8 +20,8 @@
   ],
   "locales": {
     "es": {
-      "name": "Aplicación vacía privilegiada",
-      "description": "Una plantilla con la mínima estructura",
+      "name": "Album",
+      "description": "Album es una aplicación que permite a los usuarios guardar allí las fotos al igual que lo guarde en un disco.",
       "permissions": {}
     }
   },

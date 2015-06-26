@@ -8,7 +8,6 @@ In this app am attempting to an app that allows users to store pictures and crea
 ## Code Sample and walkthrough
 indexed db API usage and code samples can be got from https://hacks.mozilla.org/2012/02/storing-images-and-files-in-indexeddb/
 
-Vibrator APi can also be gotten from
 
 The `manifest.webapp` file contains metadata about the app, such as its name, description, icon and required permissions for running under Firefox OS
 

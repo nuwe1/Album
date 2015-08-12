@@ -1,6 +1,6 @@
 # Album
  
-This is a privileged app I have created for the mozilla app of the month (May-July) contest. I have started on the app by using a privileged app template that has provided me with a barebones structure to build your app.
+This is a privileged app I have created for the mozilla app of the month (May-July) contest. I have started on the app by using a privileged app template that has provided me with a barebones structure to build this app.
 
 In this app am attempting to an app that allows users to store pictures and create photo albums using IndexedDB API and I also hope to add Vibration API for notifications
 

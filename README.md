@@ -5,7 +5,7 @@ This is a privileged app I have created for the mozilla app of the month (May-Ju
 In this app am attempting to an app that allows users to store pictures and create photo albums using IndexedDB API and I also hope to add Vibration API for notifications
 
 
-## Code Sample and walkthrough
+## Code Sample 
 indexed db API usage and code samples can be got from https://hacks.mozilla.org/2012/02/storing-images-and-files-in-indexeddb/
 
 
